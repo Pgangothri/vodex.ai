@@ -34,7 +34,10 @@ With the virtual environment activated, install the required dependencies:
 pip install -r requirements.txt
 ```
 ### 4. Database setup
-In database.py according to requirement use Mondodb(or Atlas Account) 
+- In database.py according to requirement use Mondodb(or Atlas Account)
+- I used MongoDB Compass for local access
+- For deployment use MongoDB Atlas for production development
+- I did not used mongoDB Atlas for deployment if you want use it 
 
 ### 5. Running locally
 ```bash
